@@ -1,0 +1,27 @@
+{
+  "name": "practical2",
+  "version": "1.0.0",
+  "description": "sit725 practicals",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJAY-BENIWAL16/yat.git"
+  },
+  "keywords": [
+    "Express",
+    "Node"
+  ],
+  "author": "ajay beniwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AJAY-BENIWAL16/yat/issues"
+  },
+  "homepage": "https://github.com/AJAY-BENIWAL16/yat#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
